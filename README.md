@@ -9,12 +9,12 @@
 
 ### 🔧 Featured Projects
 
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [zapret2-tui](https://github.com/ni9aii/zapret2-tui) | ★3 | Terminal UI for DPI bypass on Linux (ratatui, nftables, pkexec) |
-| [floppa-CLI](https://github.com/ni9aii/floppa-CLI) | — | CLI-only fork: WireGuard/VLESS tunnels, systemd service management |
-| [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ★1 | ESP32-S3 lighthouse lamp with WS2812B LED matrix, Web UI, OTA |
-| [AutoDev](https://github.com/ni9aii/AutoDev) | — | Automated development pipeline: review → plan → execute → verify → release |
+| Project | Stars | CI | Description |
+|---------|-------|-----|-------------|
+| [zapret2-tui](https://github.com/ni9aii/zapret2-tui) | ★3 | [![CI](https://github.com/ni9aii/zapret2-tui/actions/workflows/ci.yml/badge.svg)](https://github.com/ni9aii/zapret2-tui/actions) | Terminal UI for DPI bypass on Linux (ratatui, nftables, pkexec) |
+| [floppa-CLI](https://github.com/ni9aii/floppa-CLI) | — | — | CLI-only fork: WireGuard/VLESS tunnels, systemd service management |
+| [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ★1 | [![CI](https://github.com/ni9aii/fresnel-beacon/actions/workflows/ci.yml/badge.svg)](https://github.com/ni9aii/fresnel-beacon/actions) | ESP32-S3 lighthouse lamp with WS2812B LED matrix, Web UI, OTA |
+| [AutoDev](https://github.com/ni9aii/AutoDev) | — | — | Automated development pipeline: review → plan → execute → verify → release |
 
 ---
 
@@ -32,6 +32,17 @@
 **Linux:** nftables, systemd, WireGuard, TUI/ratatui  
 **Android:** USB-serial, Jetpack Compose, Kotlin Multiplatform  
 **Tools:** Git, CMake, Docker, GitHub Actions, clang-format
+
+---
+
+### 🏆 GitHub Achievements Roadmap
+
+**Target achievements:** Pair Extraordinaire · Galaxy Brain · Starry Saint
+
+**Strategy:**
+- ✨ `good first issue` labels (done: zapret2-tui, fresnel-beacon)
+- 💬 Discussions в репозиториях
+- 🔧 PR в чужие open-source проекты (ratatui, crossterm)
 
 ---
 
