@@ -1,3 +1,5 @@
+![ni9aii](https://img.shields.io/badge/ni9aii-black?style=for-the-badge&logo=github&logoColor=white&label=github%20profile)
+
 ### Embedded Software Developer • Linux • Rust • ESP32/STM32 • CLI Tools
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
@@ -20,7 +22,7 @@
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23F74C00)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=%2300599D)
-![Espressif](https://img.shields.io/badge/ESP-IDF-black?style=for-the-badge&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP--IDF-black?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -33,8 +35,4 @@
 
 ---
 
-### 📫 Contact
-
-- GitHub: [@ni9aii](https://github.com/ni9aii)
-- Location: Kostanay, Kazakhstan
-- CV: available on request
+CV available on request | Location: Kostanay, Kazakhstan
