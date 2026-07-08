@@ -42,14 +42,8 @@
 
 ---
 
-### ☕ Support My Work
-
-If you find my projects useful, consider [buying me a coffee](https://ko-fi.com/ni9aii) or starring the repos you like!
-
----
-
 ### 📫 Contact
 
 - GitHub: [@ni9aii](https://github.com/ni9aii)
 - Location: Kostanay, Kazakhstan
-- CV: [ni9aii.github.io/CV](https://ni9aii.github.io/CV)
+- CV: available on request
