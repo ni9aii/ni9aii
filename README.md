@@ -1,6 +1,6 @@
 ![ni9aii](https://img.shields.io/badge/ni9aii-black?style=for-the-badge&logo=github&logoColor=white&label=github%20profile)
 
-### Embedded Software Developer • Linux • Rust • Микроконтроллеры • CLI Tools
+### Embedded Software Developer · Linux · Rust · Embedded Systems · CLI
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
 [![Visitor Count](https://komarev.com/ghpvc/?username=ni9aii&color=brightgreen)](https://github.com/ni9aii)
