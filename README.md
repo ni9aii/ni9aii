@@ -35,15 +35,4 @@
 
 ---
 
-### 🏆 GitHub Achievements Roadmap
-
-**Target achievements:** Pair Extraordinaire · Galaxy Brain · Starry Saint
-
-**Strategy:**
-- ✨ `good first issue` labels (done: zapret2-tui, fresnel-beacon)
-- 💬 Discussions в репозиториях
-- 🔧 PR в чужие open-source проекты (ratatui, crossterm)
-
----
-
 CV available on request | Location: Kostanay, Kazakhstan
