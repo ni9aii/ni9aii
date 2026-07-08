@@ -22,7 +22,8 @@
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23F74C00)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=%2300599D)
-![Embedded](https://img.shields.io/badge/Embedded-black?style=for-the-badge&logo=microcontroller&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-black?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
