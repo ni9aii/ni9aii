@@ -35,6 +35,6 @@
 
 ### 📫 Contact
 
-- GitHub: [@ni9aii](https://github.com/ni9aii)  
-- Location: Kostanay, Kazakhstan  
+- GitHub: [@ni9aii](https://github.com/ni9aii)
+- Location: Kostanay, Kazakhstan
 - CV: available on request
