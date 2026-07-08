@@ -1,5 +1,7 @@
 ### Embedded Software Developer • Linux • Rust • ESP32/STM32 • CLI Tools
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
+
 ---
 
 ### 🔧 Featured Projects
@@ -17,7 +19,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Rust, C, Kotlin, Python, Shell  
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23F74C00)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=%2300599D)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%233776AB)
+
 **Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS  
 **Linux:** nftables, systemd, WireGuard, TUI/ratatui  
 **Android:** USB-serial, Jetpack Compose, Kotlin Multiplatform  
