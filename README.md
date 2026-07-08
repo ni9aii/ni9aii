@@ -1,6 +1,7 @@
 ### Embedded Software Developer • Linux • Rust • ESP32/STM32 • CLI Tools
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
+[![Visitor Count](https://komarev.com/ghpvc/?username=ni9aii&color=brightgreen)](https://github.com/ni9aii)
 
 ---
 
