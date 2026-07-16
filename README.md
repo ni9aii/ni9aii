@@ -42,7 +42,7 @@
 
 **Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS
 
-**Linux:** nftables, systemd, WireGuard, TUI/ratatui
+**Linux:** nftables, systemd, WireGuard, TUI/ratatui, VPS/VPN networking
 
 **Android:** USB-serial, Jetpack Compose, Kotlin Multiplatform
 
