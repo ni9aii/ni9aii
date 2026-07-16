@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 | Category | Technologies |
-|----------|--------------|
+|----------|-------------|
 | Languages | Rust, C, Kotlin |
 | Embedded | ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS (WiFi, OTA, USB-CDC) |
 | Linux | nftables, systemd, WireGuard, TUI/ratatui, Qt/QML (Wayland shells) |
