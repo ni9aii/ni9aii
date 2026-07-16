@@ -19,6 +19,17 @@
 
 ---
 
+### 🍴 Forks & Contributions
+
+| Project | Description |
+|---------|-------------|
+| [floppa-CLI](https://github.com/ni9aii/floppa-CLI) | CLI-only fork: WireGuard/VLESS tunnels, systemd service management |
+| [pikocore](https://github.com/ni9aii/pikocore) | Custom fork: piko-upload integration work |
+| [stm32-midi](https://github.com/ni9aii/stm32-midi) | STM32-based MIDI implementation |
+| [cavemem](https://github.com/ni9aii/cavemem) | Cross-agent persistent memory (fork) |
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23F74C00)
