@@ -13,7 +13,7 @@
 |---------|-------------|
 | [piko-upload](https://github.com/ni9aii/piko-upload) | USB-CDC tool for loading audio samples to pikocore (auto-converts MP3/FLAC/OGG) |
 | [zapret2-tui](https://github.com/ni9aii/zapret2-tui) | TUI for DPI bypass on Linux (ratatui, nftables, pkexec) |
-| [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ESP32-S3 lighthouse lamp with WS2812B LED matrix, Web UI, OTA |
+| [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ESP32-S3 lighthouse lamp with Fresnel lens and WS2812B LED matrix |
 | [AutoDev](https://github.com/ni9aii/AutoDev) | Automated dev pipeline: review → plan → execute → verify → release |
 | [field-monitor](https://github.com/ni9aii/field-monitor) | Passive reachability monitoring from own servers (Rust, GPL3) |
 
