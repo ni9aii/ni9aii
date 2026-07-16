@@ -19,11 +19,13 @@
 
 ---
 
-### 🍴 Forks
+### 🍴 Forks & Contributions
 
 | Project | Description |
 |---------|-------------|
 | [pikocore](https://github.com/ni9aii/pikocore) | Fork of schollz/pikocore: CI, host unit tests, multi-board configs |
+| [floppa-CLI](https://github.com/ni9aii/floppa-CLI) | Fork of oksunrog/floppa-vpn: CLI enhancements, systemd integration |
+| [stm32-midi](https://github.com/ni9aii/stm32-midi) | Fork of stm32-midi: USB serial number from device ID, CI improvements |
 
 ---
 
