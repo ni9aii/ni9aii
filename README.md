@@ -41,7 +41,7 @@
 
 **Languages:** Rust, C, Kotlin
 
-**Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS
+**Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS (WiFi, OTA, USB-CDC)
 
 **Linux:** nftables, systemd, WireGuard, TUI/ratatui, VPS/VPN networking (Hysteria2, VLESS, XTLS-Reality), Qt/QML (Wayland shells)
 
