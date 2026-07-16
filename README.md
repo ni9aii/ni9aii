@@ -43,7 +43,7 @@
 
 **Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS
 
-**Linux:** nftables, systemd, WireGuard, TUI/ratatui, VPS/VPN networking, Qt/QML (Wayland shells)
+**Linux:** nftables, systemd, WireGuard, TUI/ratatui, VPS/VPN networking (Hysteria2, VLESS, XTLS-Reality), Qt/QML (Wayland shells)
 
 **Android:** USB-serial, Jetpack Compose, Kotlin Multiplatform
 
