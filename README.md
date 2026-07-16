@@ -1,6 +1,6 @@
 ![ni9aii](https://img.shields.io/badge/ni9aii-black?style=for-the-badge&logo=github&logoColor=white&label=github%20profile)
 
-### Embedded Developer · Linux · Rust · CLI
+### Embedded Developer · Linux · Rust · CLI Tools
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
 [![Visitor Count](https://komarev.com/ghpvc/?username=ni9aii&color=brightgreen)](https://github.com/ni9aii)
@@ -9,12 +9,13 @@
 
 ### 🔧 Featured Projects
 
-| Project | Stars | CI | Description |
-|---------|-------|-----|-------------|
-| [zapret2-tui](https://github.com/ni9aii/zapret2-tui) | ★3 | [![CI](https://github.com/ni9aii/zapret2-tui/actions/workflows/ci.yml/badge.svg)](https://github.com/ni9aii/zapret2-tui/actions) | Terminal UI for DPI bypass on Linux (ratatui, nftables, pkexec) |
-| [floppa-CLI](https://github.com/ni9aii/floppa-CLI) | — | — | CLI-only fork: WireGuard/VLESS tunnels, systemd service management |
-| [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ★1 | [![CI](https://github.com/ni9aii/fresnel-beacon/actions/workflows/ci.yml/badge.svg)](https://github.com/ni9aii/fresnel-beacon/actions) | ESP32-S3 lighthouse lamp with WS2812B LED matrix, Web UI, OTA |
-| [AutoDev](https://github.com/ni9aii/AutoDev) | — | — | Automated development pipeline: review → plan → execute → verify → release |
+| Project | Description |
+|---------|-------------|
+| [piko-upload](https://github.com/ni9aii/piko-upload) | USB-CDC tool for loading audio samples to pikocore (auto-converts MP3/FLAC/OGG) |
+| [zapret2-tui](https://github.com/ni9aii/zapret2-tui) | TUI for DPI bypass on Linux (ratatui, nftables, pkexec) |
+| [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ESP32-S3 lighthouse lamp with WS2812B LED matrix, Web UI, OTA |
+| [AutoDev](https://github.com/ni9aii/AutoDev) | Automated dev pipeline: review → plan → execute → verify → release |
+| [field-monitor](https://github.com/ni9aii/field-monitor) | Passive reachability monitoring from own servers (Rust, GPL3) |
 
 ---
 
@@ -27,10 +28,14 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Languages:** Rust, C, Kotlin  
-**Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS  
-**Linux:** nftables, systemd, WireGuard, TUI/ratatui  
-**Android:** USB-serial, Jetpack Compose, Kotlin Multiplatform  
+**Languages:** Rust, C, Kotlin
+
+**Embedded:** ESP32/ESP-IDF, STM32/libopencm3, FreeRTOS
+
+**Linux:** nftables, systemd, WireGuard, TUI/ratatui
+
+**Android:** USB-serial, Jetpack Compose, Kotlin Multiplatform
+
 **Tools:** Git, CMake, Docker, GitHub Actions, clang-format
 
 ---
