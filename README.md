@@ -2,7 +2,7 @@
 
 ### Rust · C · Shell · Kotlin 
 
-# Systems / Network dev focused on FOSS /  Circumvention / Decentrilized software projects.
+#### Systems / Network dev focused on FOSS /  Circumvention / Decentrilized software projects.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
 
