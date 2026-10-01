@@ -1,9 +1,8 @@
 ![ni9aii](https://img.shields.io/badge/ni9aii-black?style=for-the-badge&logo=github&logoColor=white&label=github%20profile)
 
-### Embedded · Linux · Rust · CLI Tools
+### Rust · C · Shell · Kotlin 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
-[![Visitor Count](https://komarev.com/ghpvc/?username=ni9aii&color=brightgreen)](https://github.com/ni9aii)
 
 ---
 
@@ -16,16 +15,6 @@
 | [fresnel-beacon](https://github.com/ni9aii/fresnel-beacon) | ESP32-S3 lighthouse lamp with Fresnel lens and WS2812B LED matrix |
 | [AutoDev](https://github.com/ni9aii/AutoDev) | Automated dev pipeline: review → plan → execute → verify → release |
 | [field-monitor](https://github.com/ni9aii/field-monitor) | Passive reachability monitoring from own servers (Rust, GPL3) |
-
----
-
-### 🍴 Forks & Contributions
-
-| Project | Description |
-|---------|-------------|
-| [pikocore](https://github.com/ni9aii/pikocore) | Fork of schollz/pikocore: CI, host unit tests, multi-board configs |
-| [floppa-CLI](https://github.com/ni9aii/floppa-CLI) | Fork of oksunrog/floppa-vpn: CLI enhancements, systemd integration |
-| [stm32-midi](https://github.com/ni9aii/stm32-midi) | Fork of stm32-midi: USB serial number from device ID, CI improvements |
 
 ---
 
@@ -51,4 +40,4 @@
 
 ---
 
-CV available on request | Location: Kostanay, Kazakhstan
+CV available on request | Location: Belgrade, Serbia
