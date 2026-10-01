@@ -2,11 +2,13 @@
 
 ### Rust · C · Shell · Kotlin 
 
+# Systems / Network dev focused on FOSS /  Circumvention / Decentrilized software projects.
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9aii&show_icons=true&theme=gruvbox&hide_rank=true&include_all_commits=true)](https://github.com/ni9aii)
 
 ---
 
-### 🔧 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -18,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23F74C00)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=%2300599D)
